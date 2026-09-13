@@ -9,3 +9,4 @@ crash.*.log
 .env.*
 .vscode/
 infra/_selected-provider.tf
+infra/_selected-vars.tf

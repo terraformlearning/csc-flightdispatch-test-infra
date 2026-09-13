@@ -8,3 +8,4 @@ crash.*.log
 .env
 .env.*
 .vscode/
+infra/_selected-provider.tf

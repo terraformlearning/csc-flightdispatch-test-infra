@@ -1,5 +1,1 @@
-variable "environment" {
-  description = "Deployment environment"
-  type        = string
-  default     = "test"
-}
+// Common variables will go here later.
